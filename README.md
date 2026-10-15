@@ -55,7 +55,7 @@ Remaining Time        LED State
 ## 🏗️ System Architecture
 
 <img width="1360" height="1240" alt="9acbb75f-2f01-4596-80e7-e62d117dbb41" src="https://github.com/user-attachments/assets/976310c1-121a-45a4-9d41-25616041e4e1" />
-## Block Diagram
+## 🏗️ Block Diagram
 <img width="760" height="620" alt="WhatsApp Image 2026-10-15 at 11 41 01 PM" src="https://github.com/user-attachments/assets/542e9685-d0b6-4d55-9d27-810784341532" />
 
 
